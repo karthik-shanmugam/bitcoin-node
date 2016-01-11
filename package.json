@@ -1,0 +1,16 @@
+{
+  "name": "bitcoin-node",
+  "version": "1.0.0",
+  "description": "a bitcoin node implemented in node.js",
+  "main": "bitcoin_node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karthik-shanmugam",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "*",
+    "struct": "*",
+    "ctype": "*"
+  }
+}

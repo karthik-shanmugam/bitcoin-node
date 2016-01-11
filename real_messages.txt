@@ -1,0 +1,50 @@
+hello world
+CONNECTED TO: 52.28.168.11:8333
+Received Command: version
+<Buffer 75 05 6d 1a>
+<Buffer 75 05 6d 1a>
+
+Received Command: verack
+<Buffer 5d f6 e0 e2>
+<Buffer 5d f6 e0 e2>
+
+Received Command: ping
+<Buffer 2b 88 a5 b0>
+<Buffer 2b 88 a5 b0>
+
+Received Command: getheaders
+<Buffer 8d 9f 53 07>
+<Buffer 8d 9f 53 07>
+
+Received Command: inv
+<Buffer 1b b5 50 7b>
+<Buffer 1b b5 50 7b>
+
+Received Command: inv
+<Buffer 33 f8 a3 65>
+<Buffer 33 f8 a3 65>
+
+Received Command: inv
+<Buffer 07 3b c0 a1>
+<Buffer 07 3b c0 a1>
+
+Received Command: inv
+<Buffer 42 3a fd 81>
+<Buffer 42 3a fd 81>
+
+Received Command: inv
+<Buffer 8c df 7f e4>
+<Buffer 8c df 7f e4>
+
+Received Command: inv
+<Buffer 08 14 7c 6d>
+<Buffer 08 14 7c 6d>
+
+Received Command: inv
+<Buffer 49 00 8e b4>
+<Buffer 49 00 8e b4>
+
+Received Command: inv
+<Buffer 52 b5 ce 5d>
+<Buffer 52 b5 ce 5d>
+
